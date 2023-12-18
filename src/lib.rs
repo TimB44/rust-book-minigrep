@@ -93,7 +93,4 @@ Trust me.";
             search_case_insensitive(query, contents)
         )
     }
-
-
-
 }
